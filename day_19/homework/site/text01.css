@@ -1,0 +1,89 @@
+
+@media print {
+    footer {
+      break-after: always;
+    }
+}
+body{
+    display: inline-table;
+    background-image:url(https://image.cdn2.seaart.ai/2023-08-29/15718937463421957/88f59dbdc859df9c163af54045e46db58a68ad94_high.webp);
+}
+.personbutton{
+    font-size:30px;
+    color:white;
+    margin:20px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    margin-left:1600px;
+
+}
+.home{
+    font-size:30px;
+    color:white;
+    margin:20px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    margin-left:25px;
+}
+.icon{
+    display: inline-flex;
+}
+.charcho{
+    padding:12px;
+    margin:20px;
+    width:1800px;
+    height:300px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    margin:30px;
+    color:white;
+}
+.box01{
+    background-color:white;
+    margin:10px;
+    width: 310px;
+    height:55;
+    border-radius:15px;
+    margin:auto;
+}
+form input{
+    padding:20px;
+    border:none;
+    width:85%;
+    height:25px;
+    border-radius:15px;
+    margin:none;
+    text-align:left;
+    font-size:15px;
+}
+form button{
+    border:none;
+    height:35px;
+}
+h1{
+    color:white;
+    font-size:35px;
+    text-align:center;
+    margin:25px;
+    font-weight:40px;
+}
+.images{
+    margin:20px;
+    width:100px;
+    height:54px;
+    margin-left:525px;
+}
+.photo{
+    width: 224px;
+    height:330px;
+    border:none;
+}

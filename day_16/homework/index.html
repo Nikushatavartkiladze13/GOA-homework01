@@ -1,0 +1,49 @@
+<!-- 
+ Create a simple HTML form with two input fields: one for the user's name and one for their email address. Add a submit button.
+
+Add labels to the input fields created in Task 1 to ensure that each field is clearly identified.
+
+Modify the form from Task 1 to include placeholder text in each input field. For example, use "Enter your name" in the name field.
+
+Make the email field required so that the form cannot be submitted without an email address.
+
+Add a password field to the form. Ensure that the text entered in this field is hidden.
+
+Create a set of radio buttons that allow the user to select their gender (e.g., Male, Female, Other). Ensure only one option can be selected at a time.
+
+Add a checkbox that allows users to agree to terms and conditions before submitting the form.```
+  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>homework</title>
+</head>
+<body>
+    <form>
+        <label for="name">Name</label>
+        <input type="text" required placeholder="enter your name">
+        <br><br>
+        <label for="email">Email</label>
+        <input type="email" required placeholder="enter your name">
+        <br><br>
+        <label for="password">password</label>
+        <input type="password" required placeholder="enter new password">
+        <br><br>
+        <label for="password">repeat password</label>
+        <input type="password" required placeholder="repeat new password">
+        <br><br>
+        <input type="radio" name="sipping" id="rad1" value="standard" required>
+        <label for="rad1" style="font-size:20px;">Male</label>
+        <input type="radio" name="sipping" id="rad2" value="standard" required>
+        <label for="rad2" style="font-size:20px;">Female</label> 
+        <br><br>
+        <label for="checkbox">to agree</label>
+        <input type="checkbox" required>
+        <br><br>
+        <input type="submit" >
+
+    </form>
+</body>
+</html>

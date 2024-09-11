@@ -1,0 +1,59 @@
+@media print {
+    footer {
+      break-after: always;
+    }
+  }
+
+body{
+    background: url(photo/photo04.jpg) no-repeat center center/cover;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    height:650px;
+    width:400px;
+    /*border: 1px solid black;*/
+    align-items: center;
+    margin:auto;
+    margin-top:5opx;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset -5px -5px rgba(0, 0, 0, 0,5);
+    border-radius:25px;
+}
+form h1{
+    color:white;
+    font: size 25px;
+}
+form input{
+    padding:12px;
+    margin:20px;
+    width:300px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    color:white;
+}
+button{
+    padding:12px;
+    margin:20px;
+    width:150px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    color:white;
+}
+.linki{
+    padding:12px;
+    margin:20px;
+    width:150px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color:rgba(0,0,0,0.5);
+    box-shadow:inset;
+    color:white;
+}

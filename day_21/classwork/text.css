@@ -1,0 +1,42 @@
+header{
+    display:block;
+    text-align: center;
+    background-color:rgba(0,0,0,0.5);
+    width:900px;
+    height:250px;
+    border-radius:20px;
+    box-shadow:inset -5px -5px rgba(0,0,0,0.5);
+    border:none;
+    margin:auto;
+}
+form{
+    margin:auto;
+    width:250px;
+    height:30px;
+    border-radius:15px;
+    background-color:white;
+}
+form input{
+    border:none;
+    margin:auto;
+    width:200px;
+    height:25px;
+    color:black;
+}
+.gilaki{
+    border:none;
+    background-color:white;
+}
+.signup{
+    margin:15px;
+    height:40px;
+    width:150px;
+    border-radius:15px;
+    font-size:15px;
+    font-weight: 30px;
+    
+}
+audio{
+    margin-left:100px;
+    
+}
