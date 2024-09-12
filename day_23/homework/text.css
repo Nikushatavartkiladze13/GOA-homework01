@@ -1,0 +1,99 @@
+@media print {
+    footer {
+      break-after: always;
+    }
+  }
+body{
+    background-image:url(photo/Photo03.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
+.box{
+    margin:20px;
+    width:300px;
+    height:35px;
+    background-color:white;
+    border-radius:15px;
+    border:none;
+    margin:auto
+}
+.klass{
+    width:90%;
+    height:200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border:none;
+    border-radius:20px;
+    box-shadow: inset -5px -5px rgba(0,0,0,0.5);
+    margin:auto;
+}
+.sadziebo{
+    font-size:15px;
+    width:85%;
+    height:95%;
+    background-color:white;
+    border-radius:20px;
+    border:none;
+    color:black;
+    text-align:right 10px;
+    margin:auto
+}
+.gilaki{
+    width:10%;
+    height:95%;
+    background-color:white;
+    border:none;
+    font-size:15px;
+    font-weight:25px;
+    color:black;
+    margin:auto
+}
+.linki{
+    text-align:center;
+    font-size:30px;
+    font-weight:40px;
+    color:rgb(255, 255, 255);
+}
+.icon{
+    display:inline-flex;
+    margin-left:85%;
+}
+.Gunbtn{
+    font-size:22px;
+    color:white;
+    margin:20px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    box-shadow:inset;
+    margin-left:75%;
+}
+.Gunbtn01{
+    font-size:22px;
+    color:white;
+    margin:20px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    margin-left:10px;
+}
+.item{
+    position:static;
+    width:400px;
+    height:400px;
+    background-color: white;
+    border:none;
+    border-radius:20px;
+    text-align:center;
+    margin-left:70px;
+}
+.item{
+    position:static;
+    width:400px;
+    height:400px;
+    background-color: white;
+    border:none;
+    border-radius:20px;
+    text-align:center;
+    margin-left:70px;
+}
