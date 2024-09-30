@@ -1,0 +1,85 @@
+body{
+    background-color:white;
+}
+.box_00{
+    display:flex;
+    background: #fff;
+    background-color: rgb(76, 92, 182);
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .12), inset 0 -1px 0 0 #dadce0;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+    height:105px;
+}
+.box_01{
+    width: 550px;
+    height:700px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 62%;
+}
+.form_00{
+    width:500px;
+    height:80px;
+    background-color:rgb(76, 92, 182);
+    margin-left:52%;
+
+}
+.form_input00{
+    width:180px;
+    height:20px;
+
+}
+form button{
+    background-color:rgb(38, 53, 134);
+    color:white;
+    width:85px;
+    height:25px;
+    border:none;
+    border-radius:3px;
+}
+.facebook_h1{
+    font-size:40px;
+    font-weight:300;
+    color:white;
+    padding:0 20px;
+}
+.form_input01{
+    margin:5px;
+    width:250px;
+    height:33px;
+    font-size:15px;
+}
+.form_input02{
+    width:519px;
+    height:33px;
+    font-size:15px;
+    margin:5px;
+}
+label{
+    font-size:22px;
+    font-weight:bold;
+
+}
+.input_birth{
+    width:130px;
+    height:25px;
+    margin-left:5px;
+
+}
+.btn00{
+    width:140px;
+    height:36px;
+    background-color: rgb(60, 119, 60);
+    color:white;
+    font-size:16px;
+    font-weight: 100;
+    border-radius:5px;
+    border:none
+
+}
+p{
+    font-size:20px;
+
+}
