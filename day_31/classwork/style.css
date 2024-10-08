@@ -1,0 +1,26 @@
+
+.rgb0{
+    font-size:40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.rgb1{
+    font-size:40px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.rgb2{
+    font-size:40px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.rgb3{
+    font-size:40px;
+    text-align: center;
+    color: rgb(41, 214, 50);
+}
+.rgb4{
+    font-size:40px;
+    text-align: center;
+    color:#f50;
+}
