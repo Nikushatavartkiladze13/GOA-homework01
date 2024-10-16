@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size:40px;
+    font-weight:200px;
+    color:green;
+}
+p{
+    width:250px;
+    font-size:20px;
+
+}
+p:hover{
+    color:blue;
+}
+button{
+    width:150px;
+    height:40px;
+    background-color:rgb(60, 60, 248);
+    border-color:rgb(60, 60, 248);
+    color:white;
+    font-size:17px;
+
+}
+button:hover{
+    width:150px;
+    height:40px;
+    background-color:rgb(255, 255, 255);
+    border-color:rgb(60, 60, 248);
+    color:black;
+    font-size:17px;
+}
+div{
+    width:750px;
+    height:600px;
+    background-color:antiquewhite;
+    border-radius: 15px;
+
+}
