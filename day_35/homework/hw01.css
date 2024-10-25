@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(47, 85, 255)
+}
+ table, th, td {
+    margin:auto;
+    background-color:rgba(255, 233, 222, 0.801);
+    border: 1px solid rgb(255, 0, 0);
+    width:650px;
+    height:100px;
+    font-size:20px;
+    font-weight:200;
+    padding:20px;
+
+}

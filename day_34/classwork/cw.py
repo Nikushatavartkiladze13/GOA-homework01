@@ -23,7 +23,7 @@ def number():
         print("is even")
     else:
         print("is Odd")
-
+number()
 
 
 # შექმნეით მეორე ფუნქცია რომელიც მომხმარებელს შეეკიტება სახელს შემდეგ კი მიესალმება მას მაგ. hello jumnbera
