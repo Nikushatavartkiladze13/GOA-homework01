@@ -1,0 +1,17 @@
+.l1{
+    list-style-type: upper-roman;
+
+}
+.l2{
+    list-style-type:  upper-alpha;
+
+}
+.l3{
+    list-style-type: disc;
+}
+.l4{
+    list-style-type: none;
+}
+.l5{
+    list-style-type:circle;
+}
