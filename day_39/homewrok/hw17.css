@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box00{
+    margin:auto;
+    margin-top:5%;
+    width: 30%;
+    height:500px;
+    background-color:white;
+    border-radius:8px;
+    display:block;
+    box-shadow:20px  20px 40px rgba(0,0,0,0.5);
+}
+.box01{
+    width:95%;
+    height:50px;
+    background-color: white;
+    border-radius:8px;
+    margin: auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.box02{
+    width:95%;
+    height:400px;
+    background-color:white;
+    border-radius:5px;
+    margin:auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-color:black;
+    display:block
+}
+.bt01{
+    width:70px;
+    height:50px;
+    background-color:white;
+    border-style: solid;
+    border-color:black;
+    border-radius:5px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-left: 5px;
+}
+.box03{
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+.box04{
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+.box05{
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+.box06 {
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+.box07 {
+    width:100%;
+    height:50px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.bt01:hover{
+    background-color:black;
+    color:white;
+    transition: 1s;
+}
+.bt00{
+    width:70px;
+    height:50px;
+    background-color:white;
+    border-style: solid;
+    border-color:black;
+    border-radius:5px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-left: 5px;
+    color:red
+
+}
+.bt00:hover{
+    background-color:red;
+    transition: 1s;
+}
