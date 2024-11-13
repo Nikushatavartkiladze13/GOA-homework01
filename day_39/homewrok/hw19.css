@@ -1,0 +1,37 @@
+.bt00{
+    width:8%;
+    height:40px;
+    border-radius:15px;
+    border:none;
+    color: white;
+    background-image: linear-gradient(blue, lightblue)
+}
+.bt00:hover{
+    color:black;
+    background-image: linear-gradient(orange,yellow);
+    transition: 1s;
+}
+.bt01{
+    width:8%;
+    height:40px;
+    border-radius:15px;
+    border:none;
+    color: white;
+    background-image: linear-gradient(red, lightblue)
+}
+.bt02{
+    width:8%;
+    height:40px;
+    border-radius:15px;
+    border:none;
+    color: white;
+    background-image: linear-gradient(rgb(255, 81, 0), rgb(26, 153, 0))
+}
+.bt03{
+    width:8%;
+    height:40px;
+    border-radius:15px;
+    border:none;
+    color: white;
+    background-image: linear-gradient(rgb(255, 238, 0), rgb(255, 0, 242))
+}
