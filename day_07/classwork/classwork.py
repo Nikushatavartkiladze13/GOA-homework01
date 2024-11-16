@@ -1,12 +1,13 @@
 #type() - ტიპი
 
 
-car = "BMW"
 
-print(type(car))
+num1 = int(input("enter first number: "))
+num2 = int(input("enter second numbber: "))
 
-a = 4
-b = 7
-c = 4/2
-print(c) #displays the relust
-print(type(c)) #dispplay data type
+print(num1 - num2)
+print(num1 + num2)
+print(num1 / num2)
+print(num1 % num2)
+print(num1 * num2)
+print(num1 // num2)

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box00{
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    border-color: blue;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 50%;
+}
+.box01{
+    width: 494px;
+    height: 494px;
+    border: 36px solid black;
+    border-radius:  50%;
+    margin: auto
+}
+.box02{
+    width:214px;
+    height:214px;
+    border-radius:90% 0px 0px 0px;
+    border: black 10px solid;
+    background-color: blue;
+   
+}
+.box03{
+    width:214px;
+    height:214px;
+    border-radius: 0px 0px 90% 0px ;
+    border: black 10px solid;
+    margin-left: 205px;
+    background-color:  blue;
+   
+}
