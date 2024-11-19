@@ -12,6 +12,7 @@
     margin: auto;
     margin-top: 10%;
     border-radius: 50%;
+    box-shadow: 6px 6px 40px blue;
 }
 .box01{
     width: 494px;
