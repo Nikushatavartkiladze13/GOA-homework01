@@ -221,12 +221,16 @@ input{
 }
 .box05{
     width:65%;
-    height: 450px;
-    background-color:black;
+    height: 300px;
+    background-color:rgb(255, 255, 255);
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .form05{
-    width:182.66px;
+    width:270px;
     height: 274px;
     background-color: white;;
     border-radius:8px;
