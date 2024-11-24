@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bt00{
+    width:150px;
+    height:40px;
+    border-radius:15px;
+    border-style: solid;
+    border-color: black;
+    background-color: #6BA3BE;
+    color: white;
+    margin: auto;
+}
+.bt00:hover{
+    box-shadow: 6px 6px 40px red;
+    transition: 0.5s;
+    color: black
+}
