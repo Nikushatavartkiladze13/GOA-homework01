@@ -43,3 +43,4 @@ knows_programming = True   #true or folse
 #Ignore - იგნორირება
 #Comment - კომენტარი (edited)
 
+# 7 

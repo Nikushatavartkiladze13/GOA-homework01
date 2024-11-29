@@ -1,5 +1,5 @@
-#nubmer_lists = [1,2,3,4,5,6,7,8,9,10]
-#print(nubmer_lists[1])
+nubmer_lists = [1,2,3,4,5,6,7,8,9,10]
+print(nubmer_lists[1])
 #print(nubmer_lists[3])
 #print(nubmer_lists[5])
 #print(nubmer_lists[7])

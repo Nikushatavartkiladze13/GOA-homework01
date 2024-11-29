@@ -8,3 +8,4 @@ else:
     print("The number is negative")
 print(number * -1)
 
+#  გადახედეთ w3school
