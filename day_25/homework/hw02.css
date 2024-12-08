@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background-color: white;
+}
+
+.box00{
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: green;
+    margin: auto;
+    position: relative;
+    top:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
