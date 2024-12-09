@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FDA481;
+}
+
+.box00{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    border: 2px solid;
+    background-color: #B4182D;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.box01{
+    width:80px;
+    height: 80px;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color:#ED9E59;
+
+}
